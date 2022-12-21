@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gestionCanchas>
+  <cancha>
+    <nombre>Cancha Fantasma</nombre>
+    <ubicacion>San Lorenzo</ubicacion>
+    <tipoCancha>Fútbol</tipoCancha>
+    <descripcion>Cancha de césped artificial para jugar al fútbol</descripcion>
+    <precioHora>20</precioHora>
+  </cancha>
+  <cancha>
+    <nombre>Cancha La Poderosa</nombre>
+    <ubicacion>La Pradera</ubicacion>
+    <tipoCancha>Basquetbol</tipoCancha>
+    <descripcion>Cancha de madera para jugar al basquetbol</descripcion>
+    <precioHora>25</precioHora>
+  </cancha>
+  <cancha>
+    <nombre>Cancha de voley Murcielago</nombre>
+    <ubicacion>Tarqui</ubicacion>
+    <tipoCancha>Vóley</tipoCancha>
+    <descripcion>Cancha de arena para jugar al vóley</descripcion>
+    <precioHora>20</precioHora>
+  </cancha>
+  <cancha>
+    <nombre>Cancha Tiro Verde</nombre>
+    <ubicacion>Los Esteros</ubicacion>
+    <tipoCancha>Tenis</tipoCancha>
+    <descripcion>Cancha de cemento para jugar al tenis</descripcion>
+    <precioHora>30</precioHora>
+  </cancha>
+  <cancha>
+    <nombre>Cancha La polvosa</nombre>
+    <ubicacion>Eloy Alfaro</ubicacion>
+    <tipoCancha>Indor</tipoCancha>
+    <descripcion>Cancha de cemento para jugar al indor</descripcion>
+    <precioHora>25</precioHora>
+  </cancha>
+  <cancha>
+    <nombre>Cancha Tanque Elevado</nombre>
+    <ubicacion>La Proaño</ubicacion>
+    <tipoCancha>Fútbol</tipoCancha>
+    <descripcion>Cancha de césped natural para jugar al fútbol</descripcion>
+    <precioHora>25</precioHora>
+  </cancha>
+

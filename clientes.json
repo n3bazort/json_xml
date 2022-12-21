@@ -1,0 +1,73 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "genero": "masculino",
+      "ciudad": "Quito",
+      "email": "juan.perez@gmail.com"
+    },
+    {
+      "nombre": "María",
+      "apellido": "Rodríguez",
+      "genero": "femenino",
+      "ciudad": "Guayaquil",
+      "email": "maria.rodriguez@gmail.com"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "González",
+      "genero": "masculino",
+      "ciudad": "Cuenca",
+      "email": "pedro.gonzalez@gmail.com"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Sánchez",
+      "genero": "femenino",
+      "ciudad": "Loja",
+      "email": "ana.sanchez@gmail.com"
+    },
+    {
+      "nombre": "Sandra",
+      "apellido": "Martínez",
+      "genero": "femenino",
+      "ciudad": "Ambato",
+      "email": "sandra.martinez@gmail.com"
+    },
+    {
+      "nombre": "Andrés",
+      "apellido": "Díaz",
+      "genero": "masculino",
+      "ciudad": "Esmeraldas",
+      "email": "andres.diaz@gmail.com"
+    },
+    {
+      "nombre": "Carla",
+      "apellido": "Rodrigues",
+      "genero": "femenino",
+      "ciudad": "Machala",
+      "email": "carla.rodrigues@gmail.com"
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "Muñoz",
+      "genero": "masculino",
+      "ciudad": "Portoviejo",
+      "email": "javier.munoz@gmail.com"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Gómez",
+      "genero": "femenino",
+      "ciudad": "Manta",
+      "email": "laura.gomez@gmail.com"
+    },
+    {
+      "nombre": "Sebastián",
+      "apellido": "Fernández",
+      "genero": "masculino",
+      "ciudad": "Riobamba",
+      "email": "sebastian.fernandez@gmail.com"
+    },
+    {
